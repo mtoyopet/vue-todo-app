@@ -1,3 +1,2 @@
 tasks:
-  - init: yarn global add @vue/cli
-    command: vue -v
+  - init: npm i -g vue-cli
