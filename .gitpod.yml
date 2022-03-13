@@ -1,2 +1,2 @@
 tasks:
-  - init: npm i -g vue-cli
+  - init: npm install -g @vue/cli
